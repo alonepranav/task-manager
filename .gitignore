@@ -2,5 +2,7 @@
 
 # dependencies
 /node_modules
-.env
-.vercel
+./.env
+/.env
+/.vercel
+./.vercel
